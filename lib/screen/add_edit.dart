@@ -31,6 +31,7 @@ class _AddEditNoteState extends State<AddEditNote> {
     Colors.blueGrey,
     Colors.pinkAccent,
   ];
+  
 
   XFile? _imageFile; // untuk menyimpan gambar yang dipilih
   final ImagePicker _picker = ImagePicker();
